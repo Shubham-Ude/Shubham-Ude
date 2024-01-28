@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shubham-Ude
-- 👀 I’m interested in App Development and Website development 
-- 🌱 I’m currently learning Web development 
-- 💞️ I’m looking to collaborate on Android project 
+- 👀 I’m interested in Pen Testing and Website development 
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on Python Project 
 - 📫 How to reach me email :- udes251@gmail.com
 
 <!---
